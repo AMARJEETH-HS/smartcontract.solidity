@@ -1,0 +1,2 @@
+# smartcontract.solidity
+basic smartcontract
