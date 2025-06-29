@@ -6,6 +6,8 @@ contract sample{
     uint public age ;
     string public name ;
 
+// if we use public keyword there is inbuilt get functions
+
     function setage(uint _age) public {
         age=_age;
     }
